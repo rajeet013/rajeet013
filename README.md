@@ -38,18 +38,6 @@
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Anaconda](https://skillicons.dev/icons?i=anaconda)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rajeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeet013&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeet013&layout=compact&theme=tokyonight)
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
