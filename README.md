@@ -56,8 +56,6 @@
 
 **Data Science & Interactive Environments**
 
-**Data Science & Interactive Environments**
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter Notebook" title="Jupyter Notebook" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="48" height="48" alt="Google Colab" title="Google Colab" />&nbsp;
