@@ -32,6 +32,12 @@
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 
+**Coding Tools**
+
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Anaconda](https://skillicons.dev/icons?i=anaconda)
+
+
 **Frontend Frameworks**
 
 ![React](https://skillicons.dev/icons?i=react)
@@ -52,8 +58,8 @@
 
 **Python Frameworks**
 
-![Anaconda](https://skillicons.dev/icons?i=anaconda)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
 
 **Data Science & Interactive Environments**
 
