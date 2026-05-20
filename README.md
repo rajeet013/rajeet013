@@ -21,7 +21,10 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages**                                                  **Coding Tools**
+
+                                                                ![VS Code](https://skillicons.dev/icons?i=vscode)
+                                                                ![Anaconda](https://skillicons.dev/icons?i=anaconda)
 
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
