@@ -15,7 +15,7 @@
 - 💻 Specialized in **Web Development** & **Digital Image Processing**
 - 📊 Major focus in **Data Science**
 - 🌱 Always learning and exploring modern full-stack technologies
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: **rajeet013@email.com**
 
 ---
 
