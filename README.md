@@ -56,10 +56,12 @@
 
 **Data Science & Interactive Environments**
 
+**Data Science & Interactive Environments**
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter Notebook" title="Jupyter Notebook" style="background-color: #fff; padding: 4px; border-radius: 10px;" />&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48" height="48" alt="Google Colab" title="Google Colab" style="background-color: #fff; padding: 4px; border-radius: 10px;" />&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.svg" width="48" height="48" alt="Kaggle" title="Kaggle" style="background-color: #fff; padding: 4px; border-radius: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter Notebook" title="Jupyter Notebook" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="48" height="48" alt="Google Colab" title="Google Colab" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="48" height="48" alt="Kaggle" title="Kaggle" />
 </p>
 
 ## 🤝 Connect With Me
