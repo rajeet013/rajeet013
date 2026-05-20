@@ -53,6 +53,7 @@
 **Python Frameworks**
 
 ![Anaconda](https://skillicons.dev/icons?i=anaconda)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 
 **Data Science & Interactive Environments**
 
