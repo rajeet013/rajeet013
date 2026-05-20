@@ -43,7 +43,6 @@
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Tailwind.css](https://skillicons.dev/icons?i=tailwindcss)
-![Anaconda](https://skillicons.dev/icons?i=anaconda)
 
 **Database and ORM**
 
