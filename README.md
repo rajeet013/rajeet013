@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Rajeet 👋
-### CSE Graduate | Web Developer | Data Science Enthusiast
+### CSE Graduate | Web Developer | Machien Learning Enthusiast
 
 *Transforming ideas into scalable, efficient, and impactful web applications.*
 
