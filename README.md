@@ -40,6 +40,7 @@
 ![Anaconda](https://skillicons.dev/icons?i=anaconda)
 
 **Database and ORM**
+
 ![Prisma](https://skillicons.dev/icons?i=prisma)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
