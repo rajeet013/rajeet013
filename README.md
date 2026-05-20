@@ -32,7 +32,7 @@
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 
-**Frameworks & Tools**
+**Frontend Frameworks**
 
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
@@ -45,6 +45,19 @@
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
+**Backend Frameworks**
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+
+**Python Frameworks**
+![Anaconda](https://skillicons.dev/icons?i=anaconda)
+
+**Data Science & Interactive Environments**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter Notebook" title="Jupyter Notebook" style="background-color: #fff; padding: 4px; border-radius: 10px;" />&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48" height="48" alt="Google Colab" title="Google Colab" style="background-color: #fff; padding: 4px; border-radius: 10px;" />&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.svg" width="48" height="48" alt="Kaggle" title="Kaggle" style="background-color: #fff; padding: 4px; border-radius: 10px;" />
+</p>
 
 ## 🤝 Connect With Me
 
