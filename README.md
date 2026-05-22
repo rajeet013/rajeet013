@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Rajeet and I always aspire to possess the positive traits from Bulbasaur from Pokemon 👋
+# Hi, I'm Rajeet and I always aspire to possess the positive traits of Bulbasaur from Pokemon 👋
 ### CSE Graduate | Web Developer | Machine Learning Enthusiast
 
 *Transforming ideas into scalable, efficient, and impactful web applications.*
