@@ -12,7 +12,7 @@
 ## 🎓 About Me
 
 - 🏫 Graduate from **United International University** — B.Sc. in Computer Science & Engineering
-- 💻 Specialized in **Web Development** & **Digital Image Processing**
+- 💻 Specialized in **Web Development** & **Machine Learning**
 - 📊 Major focus in **Data Science**
 - 🌱 Always love to learn and explore modern full-stack technologies and AI frameworks
 - 📫 Reach me at: **rajeet013@email.com**
