@@ -11,7 +11,8 @@
 
 ## 🎓 About Me
 
-- 🏫 Graduate from **United International University** — B.Sc. in Computer Science & Engineering
+- 🏫 Graduate from **United International University** — B.Sc. in Computer Science & Engineering (July 2021 - October 2025)
+- 🚀 Web Developer Intern at Zettabyte Incorporation (April 2026 - Present)
 - 💻 Specialized in **Web Development** & **Machine Learning**
 - 📊 Major focus in **Data Science**
 - 🌱 Always love to learn and explore modern full-stack technologies and AI frameworks
